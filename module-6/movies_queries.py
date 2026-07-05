@@ -1,6 +1,8 @@
 """Module 6.2 Assignment: Movies Table Queries.
 
 Author: William Judd
+Date: 7/5/2026
+Module 6.2
 Course: CSD310 Database Development and Use
 
 This program connects to the MySQL movies database and runs
